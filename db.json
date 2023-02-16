@@ -15,8 +15,8 @@
                        "company_name": "HDFC Bank",
                        "company_type": "Bank",
 		       "stock_exchange": "NSE",
-		       "total_shares": 50000,
-		       "cost_per_share": 4210,
+		       "total_shares": "50000",
+		       "cost_per_share": "4210",
 		       "price_action": 12,
                     }
                ]
